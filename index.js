@@ -5,8 +5,9 @@ for(let i=1;i<=n;i++)
     {
         console.log("Even Numbers: " +i);
     }
-}
+
 else
 {
     console.log("Odd Numbers: "+i);
+}
 }
